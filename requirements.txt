@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+jupyter
+ipympl
+ipywidgets
+torch

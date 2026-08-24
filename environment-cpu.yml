@@ -1,0 +1,12 @@
+name: PITE-cpu
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pytorch
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pip

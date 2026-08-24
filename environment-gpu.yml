@@ -1,0 +1,14 @@
+name: PITE-gpu
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pytorch
+  - pytorch-cuda=12.4
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pip

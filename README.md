@@ -6,7 +6,9 @@ For a tutorial, see application.ipynb
   - the example is run using data from AmeriFlux site: US-MOz (https://ameriflux.lbl.gov/sites/siteinfo/US-MOz)
   - years include 2012-2014 where 2012 was a severe drought year at the site
 
-Two environments exist for download, one to run the model on GPUs and one for CPUs, choose the option that best fits your machine
+Requirements:
+- Tested on Python 3.14
+- see requirements.txt
 
 This is a work in progress and will be continuously updated
 

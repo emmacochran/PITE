@@ -1,9 +1,10 @@
-PITE: Physics-informed transpiration estimates
+# PITE: Physics-informed transpiration estimates
 
 A neural network built in PyTorch to partition transpiration from eddy covariance data.
 
 For a tutorial, see application.ipynb
   - the example is run using data from AmeriFlux site: US-MOz (https://ameriflux.lbl.gov/sites/siteinfo/US-MOz)
+  - years include 2012-2014 where 2012 was a severe drought year at the site
 
 Two environments exist for download, one to run the model on GPUs and one for CPUs, choose the option that best fits your machine
 

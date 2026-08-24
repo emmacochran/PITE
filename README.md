@@ -2,7 +2,7 @@
 
 A neural network built in PyTorch to partition transpiration from eddy covariance data.
 
-For a tutorial, see application.ipynb
+For a tutorial on how to use PITE, see application.ipynb
   - the example is run using data from AmeriFlux site: US-MOz (https://ameriflux.lbl.gov/sites/siteinfo/US-MOz)
   - years include 2012-2014 where 2012 was a severe drought year at the site
 

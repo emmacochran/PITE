@@ -1,3 +1,4 @@
+# for runs on a CPU or any Mac computer (CPU or GPU)
 numpy
 pandas
 matplotlib

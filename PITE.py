@@ -9,7 +9,7 @@ def conditional_inequality_loss(y_pred, P_time, threshold_p_scaled, max_allowed=
     no penalty for times without precipitation
     """
     # Mask: True where constraint applies (P_time < 20)
-    constraint_applies = P_time > threshold_p_scaled*-1
+    constraint_applies = P_time > threshold_p_scaled
     
     # Only get predictions where constraint applies
     y_constrained = y_pred[constraint_applies]
